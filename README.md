@@ -21,18 +21,7 @@ This project demonstrates a **Two-Tier Architecture** setup on AWS, featuring a 
 - Amazon RDS for Database
 - Security Groups for traffic control
 
-## Project Structure
 
-```
-two-tier-architecture-aws/
-├── app/                         # Sample app code
-│   └── index.php                # Simple PHP page connecting to DB
-├── scripts/
-│   └── ec2-user-data.sh         # Bootstrap script to set up web server
-├── images/
-│   └── architecture.webp        # Architecture diagram
-├── README.md
-```
 
 ## 🚀 Getting Started
 
